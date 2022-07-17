@@ -47,6 +47,8 @@ public class Driver {
 
                 case "remote-firefox":
 
+
+
                     try {
                         // assign your grid server address
                         String gridAddress = "52.90.101.317";
